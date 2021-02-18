@@ -10,6 +10,14 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **My discord DemoN#6937**
+- <table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
 
 
 <h3 align="left">Languages and Tools:</h3>
